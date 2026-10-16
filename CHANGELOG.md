@@ -1,5 +1,15 @@
 # Changelog
 
+## [2026.10.5](https://github.com/sylvinus/api-partenaires/compare/2026.10.2...2026.10.5) (2026-10-16)
+
+### Ajouté
+
+- ✨ log domain and client changes ([#178](https://github.com/sylvinus/api-partenaires/issues/178)) ([4ef2e08](https://github.com/sylvinus/api-partenaires/commit/4ef2e08ba04202b77c8c1c0af95990cabded7729))
+
+### Modifié
+
+- 🔧 filter out candidate rows where another collectivite is dila or routed ([#180](https://github.com/sylvinus/api-partenaires/issues/180)) ([5bbb08f](https://github.com/sylvinus/api-partenaires/commit/5bbb08f9870658dc581e7de3f71f0d84523942c2))
+
 ## [2026.10.4](https://github.com/proconnect-gouv/api-partenaires/compare/2026.10.3...2026.10.4) (2026-10-16)
 
 ### Modifié
